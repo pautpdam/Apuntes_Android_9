@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenAndroid_9</string>
+    <string name="app_description">Things to Do this Week</string>
+    <string name="button_enter">Enter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

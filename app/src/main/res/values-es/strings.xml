@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenAndroid_9</string>
+    <string name="app_description">Cosas que Hacer esta Semana</string>
+    <string name="button_enter">Entrar</string>
+</resources>
